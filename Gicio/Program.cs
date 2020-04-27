@@ -13,6 +13,8 @@ namespace Gicio
             Console.WriteLine("master");
             Console.WriteLine("master");
         
+            Console.WriteLine("boczna");
+        
         }
     }
 }
